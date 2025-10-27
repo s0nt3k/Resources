@@ -1,0 +1,58 @@
+[
+  {
+    "StyleName": "Style 1",
+    "topLeft": "╭",
+    "topRight": "╮",
+    "topDivider": "┬",
+    "btmLeft": "╰",
+    "btmRight": "╯",
+    "btmDivider": "┴",
+    "divLeft": "├",
+    "divRight": "┤",
+    "divMiddle": "┼",
+    "Horizontal": "│",
+    "Vertical": "─"
+  },
+  {
+    "StyleName": "Style 2",
+    "topLeft": "┌",
+    "topRight": "┐",
+    "topDivider": "┬",
+    "btmLeft": "└",
+    "btmRight": "┘",
+    "btmDivider": "┴",
+    "divLeft": "├",
+    "divRight": "┤",
+    "divMiddle": "┼",
+    "Horizontal": "│",
+    "Vertical": "─"
+  },
+  {
+    "StyleName": "Style 3",
+    "topLeft": "┏",
+    "topRight": "┓",
+    "topDivider": "┳",
+    "btmLeft": "┗",
+    "btmRight": "┛",
+    "btmDivider": "┻",
+    "divLeft": "┣",
+    "divRight": "┫",
+    "divMiddle": "╋",
+    "Horizontal": "┃",
+    "Vertical": "━"
+  },
+  {
+    "StyleName": "Style 4",
+    "topLeft": "╔",
+    "topRight": "╗",
+    "topDivider": "╦",
+    "btmLeft": "╚",
+    "btmRight": "╝",
+    "btmDivider": "╩",
+    "divLeft": "╠",
+    "divRight": "╣",
+    "divMiddle": "╬",
+    "Horizontal": "║",
+    "Vertical": "═"
+  }
+]
